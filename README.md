@@ -1,2 +1,2 @@
-# Project_TechnoAtom
-project (day 01)
+# Atom Mail 2019
+
